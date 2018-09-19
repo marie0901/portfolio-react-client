@@ -1566,7 +1566,7 @@ ul.social-share {
   .nav-flatusual .navbar {
     margin: 20px 0; }
     .nav-flatusual .navbar #branding .navbar-brand {
-      height: auto;
+      height: 45px;
       padding: 3px; }
       .nav-flatusual .navbar #branding .navbar-brand img {
         height: 45px; }
