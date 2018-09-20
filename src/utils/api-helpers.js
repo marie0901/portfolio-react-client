@@ -6,11 +6,11 @@ import {API_AUTH_TOKEN} from '../data/constants';
 class APIHelper {
 
   static get BASE_URL() {
-    return 'http://127.0.0.1:8000'
+    return 'https://portfolio-api-django.herokuapp.com'
   }
 
   static get API_URL() {
-    return 'http://127.0.0.1:8000/api/v1/';
+    return 'https://portfolio-api-django.herokuapp.com/api/v1/';
   }
 
   static get PROJECTS_URL() {
