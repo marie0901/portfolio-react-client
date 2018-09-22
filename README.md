@@ -1,4 +1,4 @@
-The code is fork from https://github.com/omaralbeik/omaralbeik.com-api and thank Omar Albeik for this
+The code is fork from https://github.com/omaralbeik/website-client and thank Omar Albeik for this
 
 ## License
 
